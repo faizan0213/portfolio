@@ -1,0 +1,9 @@
+# OS junk (optional)
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# image files
+/image/profile.jpg
