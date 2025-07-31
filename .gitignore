@@ -2,7 +2,7 @@
 .DS_Store
 Thumbs.db
 
-# VSCode settings
+# VSCode 
 .vscode/
 
 # image files
